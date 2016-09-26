@@ -1,0 +1,1251 @@
+../cunf/examples/plain/small/rw_1w1r.ll_net
+cpu time             : 0.000
+max memory (rss)     : 14
+histories            : 295
+events               : 295
+conditions           : 563
+generating cond.     : 497
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 19.98
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 8.03
+pre-set(e) [avg]     : 1.88
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.88
+cutoffs              : 32
+white events         : 263
+gray events          : 0
+black events         : 32
+net                  : ../cunf/examples/plain/small/rw_1w1r.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/rw_1w1r.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 42.63 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 42.48 avg max conf size
+test: summary:
+test: 295 events
+test: 563 conditions
+test: 3.19 avg max events in max conf (c15)
+test: 27 max confs c15
+test: 27 max confs lfs
+../cunf/examples/plain/small/rw_1w1r.sync.ll_net
+cpu time             : 0.000
+max memory (rss)     : 14
+histories            : 296
+events               : 296
+conditions           : 568
+generating cond.     : 502
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 29.71
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 11.04
+pre-set(e) [avg]     : 1.88
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.88
+cutoffs              : 32
+white events         : 264
+gray events          : 0
+black events         : 32
+net                  : ../cunf/examples/plain/small/rw_1w1r.sync.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/rw_1w1r.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 43.63 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 43.63 avg max conf size
+test: summary:
+test: 296 events
+test: 568 conditions
+test: 4.19 avg max events in max conf (c15)
+test: 27 max confs c15
+test: 27 max confs lfs
+../cunf/examples/plain/small/sdl_arq_deadlock.ll_net
+cpu time             : 0.000
+max memory (rss)     : 13
+histories            : 41
+events               : 41
+conditions           : 151
+generating cond.     : 133
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 37.01
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 26.41
+pre-set(e) [avg]     : 2.98
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 3.54
+cutoffs              : 1
+white events         : 40
+gray events          : 0
+black events         : 1
+net                  : ../cunf/examples/plain/small/sdl_arq_deadlock.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/sdl_arq_deadlock.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 31.00 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 31.00 avg max conf size
+test: summary:
+test: 41 events
+test: 151 conditions
+test: 2.00 avg max events in max conf (c15)
+test: 2 max confs c15
+test: 2 max confs lfs
+../cunf/examples/plain/small/sdl_arq.ll_net
+cpu time             : 0.004
+max memory (rss)     : 15
+histories            : 199
+events               : 199
+conditions           : 644
+generating cond.     : 596
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 83.53
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 37.11
+pre-set(e) [avg]     : 3.05
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 3.21
+cutoffs              : 10
+white events         : 189
+gray events          : 0
+black events         : 10
+net                  : ../cunf/examples/plain/small/sdl_arq.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/sdl_arq.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 88.89 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 88.78 avg max conf size
+test: summary:
+test: 199 events
+test: 644 conditions
+test: 2.89 avg max events in max conf (c15)
+test: 9 max confs c15
+test: 9 max confs lfs
+../cunf/examples/plain/small/sdl_example.ll_net
+cpu time             : 0.004
+max memory (rss)     : 15
+histories            : 132
+events               : 132
+conditions           : 375
+generating cond.     : 346
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 93.20
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 36.92
+pre-set(e) [avg]     : 2.78
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.73
+cutoffs              : 0
+white events         : 132
+gray events          : 0
+black events         : 0
+net                  : ../cunf/examples/plain/small/sdl_example.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/sdl_example.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 111.50 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 111.50 avg max conf size
+test: summary:
+test: 132 events
+test: 375 conditions
+test: 4.50 avg max events in max conf (c15)
+test: 2 max confs c15
+test: 2 max confs lfs
+../cunf/examples/plain/small/sentest_100.fsa.ll_net
+cpu time             : 0.004
+max memory (rss)     : 16
+histories            : 292
+events               : 292
+conditions           : 609
+generating cond.     : 352
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 72.21
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 105.36
+pre-set(e) [avg]     : 1.73
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.73
+cutoffs              : 41
+white events         : 251
+gray events          : 0
+black events         : 41
+net                  : ../cunf/examples/plain/small/sentest_100.fsa.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/sentest_100.fsa.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 111.13 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 109.69 avg max conf size
+test: summary:
+test: 292 events
+test: 609 conditions
+test: 2.44 avg max events in max conf (c15)
+test: 383 max confs c15
+test: 248 max confs lfs
+../cunf/examples/plain/small/sentest_25.fsa.ll_net
+cpu time             : 0.000
+max memory (rss)     : 13
+histories            : 217
+events               : 217
+conditions           : 384
+generating cond.     : 202
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 21.13
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 30.14
+pre-set(e) [avg]     : 1.63
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.63
+cutoffs              : 41
+white events         : 176
+gray events          : 0
+black events         : 41
+net                  : ../cunf/examples/plain/small/sentest_25.fsa.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/sentest_25.fsa.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 36.72 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 35.37 avg max conf size
+test: summary:
+test: 217 events
+test: 384 conditions
+test: 2.44 avg max events in max conf (c15)
+test: 383 max confs c15
+test: 198 max confs lfs
+../cunf/examples/plain/small/sentest_50.fsa.ll_net
+cpu time             : 0.000
+max memory (rss)     : 14
+histories            : 242
+events               : 242
+conditions           : 459
+generating cond.     : 252
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 34.99
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 55.23
+pre-set(e) [avg]     : 1.67
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.67
+cutoffs              : 41
+white events         : 201
+gray events          : 0
+black events         : 41
+net                  : ../cunf/examples/plain/small/sentest_50.fsa.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/sentest_50.fsa.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 61.52 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 60.30 avg max conf size
+test: summary:
+test: 242 events
+test: 459 conditions
+test: 2.44 avg max events in max conf (c15)
+test: 383 max confs c15
+test: 249 max confs lfs
+../cunf/examples/plain/small/sentest_75.fsa.ll_net
+cpu time             : 0.004
+max memory (rss)     : 15
+histories            : 267
+events               : 267
+conditions           : 534
+generating cond.     : 302
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 52.54
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 80.30
+pre-set(e) [avg]     : 1.70
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.70
+cutoffs              : 41
+white events         : 226
+gray events          : 0
+black events         : 41
+net                  : ../cunf/examples/plain/small/sentest_75.fsa.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/sentest_75.fsa.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 86.32 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 84.62 avg max conf size
+test: summary:
+test: 267 events
+test: 534 conditions
+test: 2.44 avg max events in max conf (c15)
+test: 383 max confs c15
+test: 200 max confs lfs
+../cunf/examples/plain/small/stack_full.ll_net
+cpu time             : 0.000
+max memory (rss)     : 13
+histories            : 229
+events               : 229
+conditions           : 405
+generating cond.     : 325
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 12.22
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 5.60
+pre-set(e) [avg]     : 1.99
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.76
+cutoffs              : 26
+white events         : 203
+gray events          : 0
+black events         : 26
+net                  : ../cunf/examples/plain/small/stack_full.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/stack_full.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 14.48 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 14.48 avg max conf size
+test: summary:
+test: 229 events
+test: 405 conditions
+test: 1.00 avg max events in max conf (c15)
+test: 27 max confs c15
+test: 27 max confs lfs
+#../cunf/examples/plain/small/ab_gesc.ll_net
+test: cmd "cunf -i "#../cunf/examples/plain/small/ab_gesc.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 256
+../cunf/examples/plain/small/abp_1.fsa.ll_net
+cpu time             : 0.000
+max memory (rss)     : 13
+histories            : 167
+events               : 167
+conditions           : 337
+generating cond.     : 225
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 8.92
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 6.04
+pre-set(e) [avg]     : 1.98
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.98
+cutoffs              : 56
+white events         : 111
+gray events          : 0
+black events         : 56
+net                  : ../cunf/examples/plain/small/abp_1.fsa.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/abp_1.fsa.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 12.43 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 12.43 avg max conf size
+test: summary:
+test: 167 events
+test: 337 conditions
+test: 1.00 avg max events in max conf (c15)
+test: 56 max confs c15
+test: 56 max confs lfs
+../cunf/examples/plain/small/byzagr4_0b.ll_net
+cpu time             : 0.028
+max memory (rss)     : 26
+histories            : 587
+events               : 587
+conditions           : 1630
+generating cond.     : 1368
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 361.58
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 85.78
+pre-set(e) [avg]     : 2.80
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.65
+cutoffs              : 82
+white events         : 505
+gray events          : 0
+black events         : 82
+net                  : ../cunf/examples/plain/small/byzagr4_0b.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/byzagr4_0b.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 167.88 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 156.64 avg max conf size
+test: summary:
+test: 587 events
+test: 1630 conditions
+test: 9.01 avg max events in max conf (c15)
+test: 2710 max confs c15
+test: 631 max confs lfs
+../cunf/examples/plain/small/byzagr4_0b.sync.ll_net
+cpu time             : 0.036
+max memory (rss)     : 27
+histories            : 590
+events               : 590
+conditions           : 1642
+generating cond.     : 1380
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 368.52
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 88.53
+pre-set(e) [avg]     : 2.80
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.65
+cutoffs              : 82
+white events         : 508
+gray events          : 0
+black events         : 82
+net                  : ../cunf/examples/plain/small/byzagr4_0b.sync.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/byzagr4_0b.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 168.88 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 150.06 avg max conf size
+test: summary:
+test: 590 events
+test: 1642 conditions
+test: 10.01 avg max events in max conf (c15)
+test: 2710 max confs c15
+test: 193 max confs lfs
+../cunf/examples/plain/small/byzagr4_2a.ll_net
+cpu time             : 0.008
+max memory (rss)     : 19
+histories            : 124
+events               : 124
+conditions           : 396
+generating cond.     : 376
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 299.02
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 82.74
+pre-set(e) [avg]     : 2.42
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.58
+cutoffs              : 4
+white events         : 120
+gray events          : 0
+black events         : 4
+net                  : ../cunf/examples/plain/small/byzagr4_2a.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/byzagr4_2a.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 108.25 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 101.36 avg max conf size
+test: summary:
+test: 124 events
+test: 396 conditions
+test: 44.25 avg max events in max conf (c15)
+test: 16 max confs c15
+test: 14 max confs lfs
+../cunf/examples/plain/small/byzagr4_2a.sync.ll_net
+cpu time             : 0.008
+max memory (rss)     : 19
+histories            : 125
+events               : 125
+conditions           : 401
+generating cond.     : 381
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 305.00
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 85.71
+pre-set(e) [avg]     : 2.42
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.58
+cutoffs              : 4
+white events         : 121
+gray events          : 0
+black events         : 4
+net                  : ../cunf/examples/plain/small/byzagr4_2a.sync.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/byzagr4_2a.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 109.25 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 104.80 avg max conf size
+test: summary:
+test: 125 events
+test: 401 conditions
+test: 45.25 avg max events in max conf (c15)
+test: 16 max confs c15
+test: 15 max confs lfs
+../cunf/examples/plain/small/cottbus_plate_5.ll_net
+cpu time             : 0.016
+max memory (rss)     : 21
+histories            : 768
+events               : 768
+conditions           : 1619
+generating cond.     : 1600
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 258.88
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 33.78
+pre-set(e) [avg]     : 2.07
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.06
+cutoffs              : 12
+white events         : 756
+gray events          : 0
+black events         : 12
+net                  : ../cunf/examples/plain/small/cottbus_plate_5.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/cottbus_plate_5.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 225.75 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 218.75 avg max conf size
+test: summary:
+test: 768 events
+test: 1619 conditions
+test: 4.12 avg max events in max conf (c15)
+test: 8 max confs c15
+test: 8 max confs lfs
+../cunf/examples/plain/small/cottbus_plate_5.sync.ll_net
+cpu time             : 0.020
+max memory (rss)     : 22
+histories            : 810
+events               : 810
+conditions           : 1803
+generating cond.     : 1770
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 275.96
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 37.78
+pre-set(e) [avg]     : 2.19
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.18
+cutoffs              : 12
+white events         : 798
+gray events          : 0
+black events         : 12
+net                  : ../cunf/examples/plain/small/cottbus_plate_5.sync.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/cottbus_plate_5.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 235.88 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 229.62 avg max conf size
+test: summary:
+test: 810 events
+test: 1803 conditions
+test: 4.25 avg max events in max conf (c15)
+test: 8 max confs c15
+test: 8 max confs lfs
+../cunf/examples/plain/small/dijkstra_2.ll_net
+cpu time             : 0.004
+max memory (rss)     : 14
+histories            : 952
+events               : 952
+conditions           : 1755
+generating cond.     : 1290
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 21.35
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 9.01
+pre-set(e) [avg]     : 1.83
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.83
+cutoffs              : 219
+white events         : 733
+gray events          : 0
+black events         : 219
+net                  : ../cunf/examples/plain/small/dijkstra_2.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/dijkstra_2.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 37.42 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 37.42 avg max conf size
+test: summary:
+test: 952 events
+test: 1755 conditions
+test: 2.91 avg max events in max conf (c15)
+test: 144 max confs c15
+test: 144 max confs lfs
+../cunf/examples/plain/small/dijkstra_2.sync.ll_net
+cpu time             : 0.004
+max memory (rss)     : 15
+histories            : 1009
+events               : 1009
+conditions           : 1938
+generating cond.     : 1465
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 29.01
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 11.01
+pre-set(e) [avg]     : 1.91
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.91
+cutoffs              : 214
+white events         : 795
+gray events          : 0
+black events         : 214
+net                  : ../cunf/examples/plain/small/dijkstra_2.sync.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/dijkstra_2.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 40.76 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 40.76 avg max conf size
+test: summary:
+test: 1009 events
+test: 1938 conditions
+test: 3.79 avg max events in max conf (c15)
+test: 143 max confs c15
+test: 143 max confs lfs
+../cunf/examples/plain/small/dme2.ll_net
+cpu time             : 0.004
+max memory (rss)     : 14
+histories            : 122
+events               : 122
+conditions           : 487
+generating cond.     : 471
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 135.61
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 66.30
+pre-set(e) [avg]     : 3.38
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 3.52
+cutoffs              : 4
+white events         : 118
+gray events          : 0
+black events         : 4
+net                  : ../cunf/examples/plain/small/dme2.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/dme2.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 37.00 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 37.00 avg max conf size
+test: summary:
+test: 122 events
+test: 487 conditions
+test: 2.00 avg max events in max conf (c15)
+test: 4 max confs c15
+test: 4 max confs lfs
+../cunf/examples/plain/small/dme3.ll_net
+cpu time             : 0.008
+max memory (rss)     : 18
+histories            : 321
+events               : 321
+conditions           : 1210
+generating cond.     : 1174
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 226.60
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 99.62
+pre-set(e) [avg]     : 3.40
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 3.50
+cutoffs              : 9
+white events         : 312
+gray events          : 0
+black events         : 9
+net                  : ../cunf/examples/plain/small/dme3.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/dme3.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 44.00 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 42.27 avg max conf size
+test: summary:
+test: 321 events
+test: 1210 conditions
+test: 3.00 avg max events in max conf (c15)
+test: 15 max confs c15
+test: 15 max confs lfs
+#../cunf/examples/plain/small/dme4.ll_net
+test: cmd "cunf -i "#../cunf/examples/plain/small/dme4.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 256
+../cunf/examples/plain/small/do_od.ll_net
+cpu time             : 0.000
+max memory (rss)     : 12
+histories            : 11
+events               : 11
+conditions           : 20
+generating cond.     : 18
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 1.11
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 2.00
+pre-set(e) [avg]     : 1.82
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.64
+cutoffs              : 1
+white events         : 10
+gray events          : 0
+black events         : 1
+net                  : ../cunf/examples/plain/small/do_od.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/do_od.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 6.50 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 6.50 avg max conf size
+test: summary:
+test: 11 events
+test: 20 conditions
+test: 1.00 avg max events in max conf (c15)
+test: 2 max confs c15
+test: 2 max confs lfs
+#../cunf/examples/plain/small/eisenbahn.ll_net
+test: cmd "cunf -i "#../cunf/examples/plain/small/eisenbahn.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 256
+#../cunf/examples/plain/small/eisenbahn.sync.ll_net
+test: cmd "cunf -i "#../cunf/examples/plain/small/eisenbahn.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 256
+../cunf/examples/plain/small/elevator_1.ll_net
+cpu time             : 0.000
+max memory (rss)     : 13
+histories            : 157
+events               : 157
+conditions           : 296
+generating cond.     : 172
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 6.35
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 4.03
+pre-set(e) [avg]     : 1.86
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.86
+cutoffs              : 59
+white events         : 98
+gray events          : 0
+black events         : 59
+net                  : ../cunf/examples/plain/small/elevator_1.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/elevator_1.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 12.65 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 12.65 avg max conf size
+test: summary:
+test: 157 events
+test: 296 conditions
+test: 1.50 avg max events in max conf (c15)
+test: 62 max confs c15
+test: 62 max confs lfs
+../cunf/examples/plain/small/elevator_2.ll_net
+cpu time             : 0.004
+max memory (rss)     : 14
+histories            : 827
+events               : 827
+conditions           : 1562
+generating cond.     : 896
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 8.98
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 5.01
+pre-set(e) [avg]     : 1.88
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.88
+cutoffs              : 331
+white events         : 496
+gray events          : 0
+black events         : 331
+net                  : ../cunf/examples/plain/small/elevator_2.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/elevator_2.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 18.70 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 18.69 avg max conf size
+test: summary:
+test: 827 events
+test: 1562 conditions
+test: 1.98 avg max events in max conf (c15)
+test: 344 max confs c15
+test: 343 max confs lfs
+../cunf/examples/plain/small/elevator.ll_net
+cpu time             : 0.000
+max memory (rss)     : 13
+histories            : 293
+events               : 293
+conditions           : 530
+generating cond.     : 504
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 37.03
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 9.04
+pre-set(e) [avg]     : 1.76
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.79
+cutoffs              : 9
+white events         : 284
+gray events          : 0
+black events         : 9
+net                  : ../cunf/examples/plain/small/elevator.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/elevator.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 34.43 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 30.59 avg max conf size
+test: summary:
+test: 293 events
+test: 530 conditions
+test: 2.00 avg max events in max conf (c15)
+test: 63 max confs c15
+test: 63 max confs lfs
+#../cunf/examples/plain/small/furnace_1.fsa.ll_net
+test: cmd "cunf -i "#../cunf/examples/plain/small/furnace_1.fsa.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 256
+../cunf/examples/plain/small/gas_station.ll_net
+cpu time             : 0.000
+max memory (rss)     : 12
+histories            : 20
+events               : 20
+conditions           : 44
+generating cond.     : 41
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 10.20
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 6.30
+pre-set(e) [avg]     : 1.90
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.90
+cutoffs              : 1
+white events         : 19
+gray events          : 0
+black events         : 1
+net                  : ../cunf/examples/plain/small/gas_station.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/gas_station.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 20.00 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 20.00 avg max conf size
+test: summary:
+test: 20 events
+test: 44 conditions
+test: 2.00 avg max events in max conf (c15)
+test: 1 max confs c15
+test: 1 max confs lfs
+../cunf/examples/plain/small/key_2.ll_net
+cpu time             : 0.000
+max memory (rss)     : 14
+histories            : 665
+events               : 665
+conditions           : 1334
+generating cond.     : 804
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 8.65
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 7.01
+pre-set(e) [avg]     : 2.00
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.00
+cutoffs              : 200
+white events         : 465
+gray events          : 0
+black events         : 200
+net                  : ../cunf/examples/plain/small/key_2.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/key_2.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 33.45 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 33.44 avg max conf size
+test: summary:
+test: 665 events
+test: 1334 conditions
+test: 1.45 avg max events in max conf (c15)
+test: 232 max confs c15
+test: 232 max confs lfs
+../cunf/examples/plain/small/mmgt_1.fsa.ll_net
+cpu time             : 0.000
+max memory (rss)     : 13
+histories            : 58
+events               : 58
+conditions           : 118
+generating cond.     : 74
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 10.16
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 5.09
+pre-set(e) [avg]     : 1.95
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.95
+cutoffs              : 20
+white events         : 38
+gray events          : 0
+black events         : 20
+net                  : ../cunf/examples/plain/small/mmgt_1.fsa.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/mmgt_1.fsa.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 8.95 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 8.95 avg max conf size
+test: summary:
+test: 58 events
+test: 118 conditions
+test: 1.95 avg max events in max conf (c15)
+test: 21 max confs c15
+test: 21 max confs lfs
+../cunf/examples/plain/small/mmgt_2.fsa.ll_net
+cpu time             : 0.000
+max memory (rss)     : 14
+histories            : 645
+events               : 645
+conditions           : 1280
+generating cond.     : 758
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 14.15
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 6.01
+pre-set(e) [avg]     : 1.98
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.98
+cutoffs              : 260
+white events         : 385
+gray events          : 0
+black events         : 260
+net                  : ../cunf/examples/plain/small/mmgt_2.fsa.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/mmgt_2.fsa.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 12.50 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 12.35 avg max conf size
+test: summary:
+test: 645 events
+test: 1280 conditions
+test: 2.12 avg max events in max conf (c15)
+test: 301 max confs c15
+test: 276 max confs lfs
+../cunf/examples/plain/small/mutual.ll_net
+cpu time             : 0.004
+max memory (rss)     : 13
+histories            : 495
+events               : 495
+conditions           : 884
+generating cond.     : 726
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 22.74
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 9.02
+pre-set(e) [avg]     : 1.77
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.77
+cutoffs              : 79
+white events         : 416
+gray events          : 0
+black events         : 79
+net                  : ../cunf/examples/plain/small/mutual.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/mutual.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 40.67 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 40.67 avg max conf size
+test: summary:
+test: 495 events
+test: 884 conditions
+test: 2.33 avg max events in max conf (c15)
+test: 55 max confs c15
+test: 55 max confs lfs
+../cunf/examples/plain/small/only_hl.ll_net
+cpu time             : 0.000
+max memory (rss)     : 12
+histories            : 41
+events               : 41
+conditions           : 75
+generating cond.     : 73
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 4.52
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 3.85
+pre-set(e) [avg]     : 1.78
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.78
+cutoffs              : 0
+white events         : 41
+gray events          : 0
+black events         : 0
+net                  : ../cunf/examples/plain/small/only_hl.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/only_hl.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 41.00 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 41.00 avg max conf size
+test: summary:
+test: 41 events
+test: 75 conditions
+test: 1.00 avg max events in max conf (c15)
+test: 1 max confs c15
+test: 1 max confs lfs
+../cunf/examples/plain/small/parrow.ll_net
+cpu time             : 0.004
+max memory (rss)     : 14
+histories            : 295
+events               : 295
+conditions           : 712
+generating cond.     : 598
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 55.11
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 15.05
+pre-set(e) [avg]     : 2.36
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.36
+cutoffs              : 38
+white events         : 257
+gray events          : 0
+black events         : 38
+net                  : ../cunf/examples/plain/small/parrow.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/parrow.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 50.74 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 49.85 avg max conf size
+test: summary:
+test: 295 events
+test: 712 conditions
+test: 3.59 avg max events in max conf (c15)
+test: 27 max confs c15
+test: 27 max confs lfs
+../cunf/examples/plain/small/peterson.ll_net
+cpu time             : 0.000
+max memory (rss)     : 12
+histories            : 49
+events               : 49
+conditions           : 102
+generating cond.     : 74
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 9.92
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 5.10
+pre-set(e) [avg]     : 1.98
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.98
+cutoffs              : 12
+white events         : 37
+gray events          : 0
+black events         : 12
+net                  : ../cunf/examples/plain/small/peterson.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/peterson.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 14.45 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 14.45 avg max conf size
+test: summary:
+test: 49 events
+test: 102 conditions
+test: 1.55 avg max events in max conf (c15)
+test: 11 max confs c15
+test: 11 max confs lfs
+../cunf/examples/plain/small/peterson_pfa.ll_net
+cpu time             : 0.000
+max memory (rss)     : 12
+histories            : 49
+events               : 49
+conditions           : 102
+generating cond.     : 74
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 9.92
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 5.10
+pre-set(e) [avg]     : 1.98
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 1.98
+cutoffs              : 12
+white events         : 37
+gray events          : 0
+black events         : 12
+net                  : ../cunf/examples/plain/small/peterson_pfa.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/peterson_pfa.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 14.45 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 14.45 avg max conf size
+test: summary:
+test: 49 events
+test: 102 conditions
+test: 1.55 avg max events in max conf (c15)
+test: 11 max confs c15
+test: 11 max confs lfs
+../cunf/examples/plain/small/reader_writer_2.ll_net
+cpu time             : 0.000
+max memory (rss)     : 13
+histories            : 147
+events               : 147
+conditions           : 498
+generating cond.     : 301
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 21.90
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 10.12
+pre-set(e) [avg]     : 3.30
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 3.36
+cutoffs              : 53
+white events         : 94
+gray events          : 0
+black events         : 53
+net                  : ../cunf/examples/plain/small/reader_writer_2.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/reader_writer_2.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 16.29 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 16.15 avg max conf size
+test: summary:
+test: 147 events
+test: 498 conditions
+test: 2.58 avg max events in max conf (c15)
+test: 48 max confs c15
+test: 48 max confs lfs
+../cunf/examples/plain/small/recursion.ll_net
+cpu time             : 0.000
+max memory (rss)     : 12
+histories            : 16
+events               : 16
+conditions           : 40
+generating cond.     : 36
+reading cond.        : 0
+compound cond.       : 0
+vector r(h) [avg]    : 0.00
+vector s(h) [avg]    : 0.00
+vector co(r) [avg]   : 3.89
+vector rco(r) [avg]  : 0.00
+vector mrk(h) [avg]  : 3.88
+pre-set(e) [avg]     : 2.38
+context(e) [avg]     : 0.00
+post-set(e) [avg]    : 2.38
+cutoffs              : 1
+white events         : 15
+gray events          : 0
+black events         : 1
+net                  : ../cunf/examples/plain/small/recursion.ll_net
+test: cmd "cunf -i "../cunf/examples/plain/small/recursion.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 0
+emc: first call, initializing nonvis; want_dp1 False
+test: 9.00 avg max conf size
+emc: first call, initializing nonvis; want_dp1 True
+test: 9.00 avg max conf size
+test: summary:
+test: 16 events
+test: 40 conditions
+test: 1.00 avg max events in max conf (c15)
+test: 2 max confs c15
+test: 2 max confs lfs
+#../cunf/examples/plain/small/rrr10-1.sync.ll_net
+test: cmd "cunf -i "#../cunf/examples/plain/small/rrr10-1.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 256
+#../cunf/examples/plain/small/rrr20-1.sync.ll_net
+test: cmd "cunf -i "#../cunf/examples/plain/small/rrr20-1.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 256
+#../cunf/examples/plain/small/rrr30-1.sync.ll_net
+test: cmd "cunf -i "#../cunf/examples/plain/small/rrr30-1.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 256
+#../cunf/examples/plain/small/rrr50-1.sync.ll_net
+test: cmd "cunf -i "#../cunf/examples/plain/small/rrr50-1.sync.ll_net" -s /tmp/bp.cuf"
+test: cunf exit code is 256

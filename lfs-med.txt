@@ -1,0 +1,126 @@
+#../cunf/examples/plain/med/q_1.fsa.ll_net
+test: cunf exit code is 256
+#../cunf/examples/plain/med/q_1.ll_net
+test: cunf exit code is 256
+../cunf/examples/plain/med/rw_1w2r.ll_net
+events               : 2098
+conditions           : 3899
+white events         : 1623
+gray events          : 0
+black events         : 475
+test: cunf exit code is 0
+test: 2098 events
+test: 3899 conditions
+test: 3.63 avg max events in max conf (c15)
+test: 414 max confs c15
+test: 414 max confs lfs
+#../cunf/examples/plain/med/rw_2w1r.ll_net
+test: cunf exit code is 256
+#../cunf/examples/plain/med/rw_2w1r.sync.ll_net
+test: cunf exit code is 256
+#../cunf/examples/plain/med/speed_1.fsa.ll_net
+test: cunf exit code is 256
+#../cunf/examples/plain/med/bds_1.fsa.ll_net
+test: cunf exit code is 256
+../cunf/examples/plain/med/bruijn_2.ll_net
+events               : 1312
+conditions           : 2777
+white events         : 971
+gray events          : 0
+black events         : 341
+test: cunf exit code is 0
+test: 1312 events
+test: 2777 conditions
+test: 2.72 avg max events in max conf (c15)
+test: 262 max confs c15
+test: 262 max confs lfs
+../cunf/examples/plain/med/bruijn_2.sync.ll_net
+events               : 1361
+conditions           : 2936
+white events         : 1020
+gray events          : 0
+black events         : 341
+test: cunf exit code is 0
+test: 1361 events
+test: 2936 conditions
+test: 3.61 avg max events in max conf (c15)
+test: 262 max confs c15
+test: 262 max confs lfs
+#../cunf/examples/plain/med/dme10.ll_net
+test: cunf exit code is 256
+#../cunf/examples/plain/med/dme11.ll_net
+test: cunf exit code is 256
+../cunf/examples/plain/med/dme5.ll_net
+events               : 1145
+conditions           : 4096
+white events         : 1120
+gray events          : 0
+black events         : 25
+test: cunf exit code is 0
+test: 1145 events
+test: 4096 conditions
+test: 5.00 avg max events in max conf (c15)
+test: 115 max confs c15
+test: 115 max confs lfs
+#../cunf/examples/plain/med/dme6.ll_net
+test: cunf exit code is 256
+#../cunf/examples/plain/med/dme7.ll_net
+test: cunf exit code is 256
+#../cunf/examples/plain/med/dme8.ll_net
+test: cunf exit code is 256
+#../cunf/examples/plain/med/dme9.ll_net
+test: cunf exit code is 256
+../cunf/examples/plain/med/elevator_3.dlmcs.sync.ll_net
+events               : 3900
+conditions           : 7416
+white events         : 2271
+gray events          : 0
+black events         : 1629
+test: cunf exit code is 0
+test: 3900 events
+test: 7416 conditions
+test: 3.56 avg max events in max conf (c15)
+test: 1722 max confs c15
+test: 1682 max confs lfs
+../cunf/examples/plain/med/elevator_3.ll_net
+events               : 3895
+conditions           : 7398
+white events         : 2266
+gray events          : 0
+black events         : 1629
+test: cunf exit code is 0
+test: 3895 events
+test: 7398 conditions
+test: 2.59 avg max events in max conf (c15)
+test: 1684 max confs c15
+test: 1681 max confs lfs
+#../cunf/examples/plain/med/furnace_2.fsa.ll_net
+test: cunf exit code is 256
+#../cunf/examples/plain/med/key_3.ll_net
+test: cunf exit code is 256
+../cunf/examples/plain/med/knuth_2.ll_net
+events               : 1022
+conditions           : 2131
+white events         : 770
+gray events          : 0
+black events         : 252
+test: cunf exit code is 0
+test: 1022 events
+test: 2131 conditions
+test: 2.76 avg max events in max conf (c15)
+test: 187 max confs c15
+test: 186 max confs lfs
+../cunf/examples/plain/med/knuth_2.sync.ll_net
+events               : 1047
+conditions           : 2214
+white events         : 795
+gray events          : 0
+black events         : 252
+test: cunf exit code is 0
+test: 1047 events
+test: 2214 conditions
+test: 3.69 avg max events in max conf (c15)
+test: 187 max confs c15
+test: 187 max confs lfs
+#../cunf/examples/plain/med/mmgt_3.fsa.ll_net
+test: cunf exit code is 256
